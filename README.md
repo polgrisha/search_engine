@@ -22,8 +22,12 @@
 
 Для запуска выполнить команды в корне репозитория:
 
-```docker-compose build```
-```docker-compose up```
+```console
+docker-compose build
+```
+```console
+docker-compose up
+```
 
 React приложение будет доступно по адресу `http://localhost:3000/`
 Запросы к бэкенд приложению можно делать через поисковую строку
